@@ -1,0 +1,18 @@
+*l node 3ndo process for manuiplating nodejs procee bdl l document l x js 
+w 3ndo global bdl l window
+
+* l i/o operation l hwa msl fetch data mn db aw read mn file ..etc
+
+* chalk de package for setting console style
+
+* mmkn ab3t arg 3n 6re2 l console n msln node app name => kda b3tt name w to access it
+i use process.argv[2] //l2n x 2 element x l array dymn mawgodeen
+
+*yargs de package zy process bs 3l4an organize l arguement l hb3tha ll cmd
+ - b3ml yargs.command() 3l4an a set arguement mo3yna leha
+
+* x l json mmnk access object.prop lkn x l string l2n
+*JSON.stringfy() take json and return string
+*JSON.parse() take string and return json
+*3l4an read aw write mn file lazm l data tkon string
+*mynf34 ast5dm l arrow fun ka value l prop => lazm funName(){}
